@@ -10,7 +10,7 @@ I'm a dedicated Software Engineer based in Pakistan, specializing in web develop
 
 With hands-on deployment experience on platforms like EC2, S3, and Linux servers, I also utilize Python and AWS Lambda for web scraping and automation tasks. I am passionate about writing clean, efficient code and continuously improving my skills.
 
-With over 2 years in the industry, I am eager to take on new challenges and contribute to innovative projects. I seek a dynamic role where I can further develop my expertise and make a meaningful impact.\*
+With over 3 years in the industry, I am eager to take on new challenges and contribute to innovative projects. I seek a dynamic role where I can further develop my expertise and make a meaningful impact.\*
 
 ## **Work Experience**
 
