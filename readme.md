@@ -2,11 +2,11 @@
 
 ## I am a Software Engineer and Web Developer!
 
-- Currently Associate Software Engineer at [RevolveAi](https://www.revolveai.com/).
+- Currently Sr Software Engineer at [RevolveAi](https://www.revolveai.com/).
 
 ### About Me:
 
-I'm a dedicated Software Engineer based in Pakistan, specializing in web development with a strong background in Laravel and React. I excel in creating dynamic applications and have extensive experience with MySQL, JavaScript, jQuery, and Bootstrap for front-end development.
+I'm a dedicated Software Engineer based in Islamabad, specializing in web development with a strong background in Laravel and Mern Stack. I excel in creating dynamic applications and have extensive experience with Next.js, React.js, Php, Node and bootstrap, tailwindcss for frontend.
 
 With hands-on deployment experience on platforms like EC2, S3, and Linux servers, I also utilize Python and AWS Lambda for web scraping and automation tasks. I am passionate about writing clean, efficient code and continuously improving my skills.
 
@@ -14,7 +14,7 @@ With over 3 years in the industry, I am eager to take on new challenges and cont
 
 ## **Work Experience**
 
-### **Associate Software Engineer, Islamabad, Pakistan**
+### **Sr Software Engineer, Islamabad, Pakistan**
 
 _RevolveAi March. 2023 ‑ Current_
 
@@ -29,7 +29,6 @@ _RevolveAi March. 2023 ‑ Current_
 ### Connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/sohail-tahir5858/) 👨‍💼
-- [Instagram](https://www.instagram.com/sohailtahir219/) 📸
 
 ### Let's Talk:
 
